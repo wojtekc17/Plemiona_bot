@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Aktualizacja-14.09.2020" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d416991-c2fc-4ef8-8a23-b527d7caeb5d" name="Default Changelist" comment="Aktualizacja 23.09.2020">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/bot/bot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/output/bot/bot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/bot/plemiona.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/bot/plemiona.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Aktualizacja-14.09.2020" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1auMEOnGJj8iE3uarCepuMEVa0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="bot_pleamiona" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="bot_pleamiona" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="bot_pleamiona" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Wojtek\PycharmProjects\bot_pleamiona\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Wojtek\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d416991-c2fc-4ef8-8a23-b527d7caeb5d" name="Default Changelist" comment="" />
+      <created>1587580912075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587580912075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Aktualizacja-14.09.2020" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Aktualizacja-14.09.2020" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="172" key="#Inspections" timestamp="1600218391164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="172" key="#Inspections/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600218391164" />
+    <state x="2512" y="272" key="#Inspections/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1597967235636" />
+    <state x="2777" y="472" key="#Notifications" timestamp="1600086698337">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2777" y="472" key="#Notifications/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600086698337" />
+    <state x="2804" y="450" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600088485045">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2804" y="450" key="#com.intellij.fileTypes.FileTypeChooser/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600088485045" />
+    <state x="2676" y="359" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599760487177">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2676" y="359" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1599760487177" />
+    <state x="2845" y="481" key="#com.intellij.tools.ToolEditorDialog" timestamp="1599669986874">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2845" y="481" key="#com.intellij.tools.ToolEditorDialog/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1599669986874" />
+    <state x="781" y="427" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1600189356949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="427" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600189356949" />
+    <state x="2513" y="231" width="1070" height="726" key="DiffContextDialog" timestamp="1600113325198">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2513" y="231" width="1070" height="726" key="DiffContextDialog/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600113325198" />
+    <state x="2749" y="377" key="FileChooserDialogImpl" timestamp="1597222616523">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2749" y="377" key="FileChooserDialogImpl/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1597222616523" />
+    <state width="1484" height="298" key="GridCell.Tab.0.bottom" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.bottom/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595504460219" />
+    <state width="1484" height="298" key="GridCell.Tab.0.bottom/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.0.bottom/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621303" />
+    <state width="1484" height="298" key="GridCell.Tab.0.center" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.center/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595504460218" />
+    <state width="1484" height="298" key="GridCell.Tab.0.center/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.0.center/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621303" />
+    <state width="1484" height="298" key="GridCell.Tab.0.left" timestamp="1600856445328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.left/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595504460218" />
+    <state width="1484" height="298" key="GridCell.Tab.0.left/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445328" />
+    <state width="1484" height="300" key="GridCell.Tab.0.left/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621303" />
+    <state width="1484" height="298" key="GridCell.Tab.0.right" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="264" key="GridCell.Tab.0.right/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595504460218" />
+    <state width="1484" height="298" key="GridCell.Tab.0.right/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.0.right/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621303" />
+    <state width="1484" height="298" key="GridCell.Tab.1.bottom" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1484" height="298" key="GridCell.Tab.1.bottom/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.1.bottom/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621211" />
+    <state width="1484" height="298" key="GridCell.Tab.1.center" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1484" height="298" key="GridCell.Tab.1.center/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.1.center/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621211" />
+    <state width="1484" height="298" key="GridCell.Tab.1.left" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1484" height="298" key="GridCell.Tab.1.left/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.1.left/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621211" />
+    <state width="1484" height="298" key="GridCell.Tab.1.right" timestamp="1600856445329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1484" height="298" key="GridCell.Tab.1.right/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600856445329" />
+    <state width="1484" height="300" key="GridCell.Tab.1.right/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600854621211" />
+    <state x="869" y="218" key="RollbackChangesDialog" timestamp="1600858847459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="218" key="RollbackChangesDialog/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600858847459" />
+    <state x="2578" y="296" key="SettingsEditor" timestamp="1600113659754">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2578" y="296" key="SettingsEditor/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600113659754" />
+    <state x="2513" y="231" width="1070" height="726" key="ShowDiffWithBranchDialog" timestamp="1600113325198">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2513" y="231" width="1070" height="726" key="ShowDiffWithBranchDialog/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600113325198" />
+    <state x="2847" y="291" key="VCS.ChangeListViewerDialog" timestamp="1600113031222">
+      <screen x="1920" y="100" width="1920" height="1040" />
+    </state>
+    <state x="2847" y="291" key="VCS.ChangeListViewerDialog/1920.100.1920.1040/0.0.1920.1040@1920.100.1920.1040" timestamp="1600113031222" />
+    <state x="792" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600854675825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600854675825" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1600189588805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600189588805" />
+    <state x="803" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1600189326564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="305" key="refactoring.ChangeSignatureDialog/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600189326564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
